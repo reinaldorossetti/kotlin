@@ -28,5 +28,8 @@ Validações:
 4. Passar na validação do Algoritmo de Luhnn
 5. Validar o soma igual a Zero, o zero ele passa no algoritmo de Luhnn, ou seja "0000" ou "00000000000000000" ele considera como valido.
 
+Medium:
+https://reiload-88128.medium.com/validando-cart%C3%B5es-de-cr%C3%A9dito-luhn-algorithm-a4c341ec0bd9
+
 Sobre mais:
 https://www.freeformatter.com/credit-card-number-generator-validator.html#howToValidate
